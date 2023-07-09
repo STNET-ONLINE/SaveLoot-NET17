@@ -1,0 +1,58 @@
+--Stalker
+community_by_visual["stalker_neutral_1"] = "stalker"
+community_by_visual["stalker_neutral_2"] = "stalker"
+community_by_visual["stalker_neutral_3"] = "stalker"
+community_by_visual["stalker_neutral_4"] = "stalker"
+community_by_visual["stalker_neutral_5"] = "stalker"
+
+--Spectrum
+community_by_visual["stalker_spectrum_1"] = "spectrum"
+
+--Freedom
+community_by_visual["stalker_freedom_1"] = "freedom"
+community_by_visual["stalker_freedom_2"] = "freedom"
+community_by_visual["stalker_freedom_2_mask"] = "freedom"
+community_by_visual["stalker_freedom_3"] = "freedom"
+community_by_visual["stalker_freedom_4"] = "freedom"
+
+--Merc
+community_by_visual["stalker_merc_2"] = "merc"
+community_by_visual["stalker_merc_4"] = "merc"
+
+--Bandit
+community_by_visual["stalker_bandit_1"] = "bandit"
+community_by_visual["stalker_bandit_2"] = "bandit"
+community_by_visual["stalker_bandit_3"] = "bandit"
+community_by_visual["stalker_bandit_3_mask"] = "bandit"
+community_by_visual["stalker_bandit_4"] = "bandit"
+
+--Clear Sky
+community_by_visual["stalker_nebo_1"] = "nebo"
+community_by_visual["stalker_nebo_2"] = "nebo"
+community_by_visual["stalker_nebo_3"] = "nebo"
+
+--Duty
+community_by_visual["stalker_dolg_1"] = "dolg"
+community_by_visual["stalker_dolg_2"] = "dolg"
+community_by_visual["stalker_dolg_2_mask"] = "dolg"
+community_by_visual["stalker_dolg_3"] = "dolg"
+community_by_visual["stalker_dolg_4"] = "dolg"
+
+--Monolith
+community_by_visual["stalker_monolith_1"] = "monolith"
+community_by_visual["stalker_monolith_2"] = "monolith"
+community_by_visual["stalker_monolith_3"] = "monolith"
+
+--Ecolog
+community_by_visual["stalker_ecolog_military"] = "ecolog"
+
+--Army
+community_by_visual["stalker_soldier_1"] = "soldier"
+community_by_visual["stalker_soldier_2"] = "soldier"
+community_by_visual["stalker_soldier_3"] = "soldier"
+community_by_visual["stalker_soldier_4"] = "soldier"
+
+--Zombie
+community_by_visual["stalker_monolith_4"] = "zombied"
+community_by_visual["stalker_monolith_5"] = "zombied"
+community_by_visual["stalker_monolith_6"] = "zombied"
